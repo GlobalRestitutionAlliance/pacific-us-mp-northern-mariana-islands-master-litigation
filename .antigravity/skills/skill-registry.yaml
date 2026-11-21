@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: northern-mariana-islandsian-restitution-roadmap-and-qsf-trust-execution
-  name: Northern Mariana Islandsian Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/northern-mariana-islandsian-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_mp_001
+    name: Northern Mariana Islands Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_002
+    name: Northern Mariana Islands Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_003
+    name: Northern Mariana Islands Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_004
+    name: Northern Mariana Islands Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_005
+    name: Northern Mariana Islands Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_006
+    name: Northern Mariana Islands Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_007
+    name: Northern Mariana Islands Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_008
+    name: Northern Mariana Islands Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_009
+    name: Northern Mariana Islands Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_010
+    name: Northern Mariana Islands Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_011
+    name: Northern Mariana Islands Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_012
+    name: Northern Mariana Islands Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_013
+    name: Northern Mariana Islands Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_014
+    name: Northern Mariana Islands Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_015
+    name: Northern Mariana Islands Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_016
+    name: Northern Mariana Islands Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_017
+    name: Northern Mariana Islands Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_018
+    name: Northern Mariana Islands Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_019
+    name: Northern Mariana Islands Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_020
+    name: Northern Mariana Islands Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_021
+    name: Northern Mariana Islands Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_022
+    name: Northern Mariana Islands Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_023
+    name: Northern Mariana Islands Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_024
+    name: Northern Mariana Islands Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_025
+    name: Northern Mariana Islands Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_026
+    name: Northern Mariana Islands Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_027
+    name: Northern Mariana Islands Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_028
+    name: Northern Mariana Islands Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_029
+    name: Northern Mariana Islands Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_030
+    name: Northern Mariana Islands Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_031
+    name: Northern Mariana Islands Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_032
+    name: Northern Mariana Islands Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_033
+    name: Northern Mariana Islands Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_034
+    name: Northern Mariana Islands Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_035
+    name: Northern Mariana Islands Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_036
+    name: Northern Mariana Islands Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_037
+    name: Northern Mariana Islands Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_038
+    name: Northern Mariana Islands Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_039
+    name: Northern Mariana Islands Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_040
+    name: Northern Mariana Islands Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_041
+    name: Northern Mariana Islands Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_042
+    name: Northern Mariana Islands Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_043
+    name: Northern Mariana Islands Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_044
+    name: Northern Mariana Islands Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_045
+    name: Northern Mariana Islands Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_046
+    name: Northern Mariana Islands Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_047
+    name: Northern Mariana Islands Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_048
+    name: Northern Mariana Islands Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_049
+    name: Northern Mariana Islands Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_050
+    name: Northern Mariana Islands Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_051
+    name: Northern Mariana Islands Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_052
+    name: Northern Mariana Islands Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_053
+    name: Northern Mariana Islands Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_054
+    name: Northern Mariana Islands Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_055
+    name: Northern Mariana Islands Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_056
+    name: Northern Mariana Islands Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_057
+    name: Northern Mariana Islands Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_058
+    name: Northern Mariana Islands Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_059
+    name: Northern Mariana Islands Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_060
+    name: Northern Mariana Islands Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_061
+    name: Northern Mariana Islands Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_062
+    name: Northern Mariana Islands Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_063
+    name: Northern Mariana Islands Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_064
+    name: Northern Mariana Islands Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_065
+    name: Northern Mariana Islands Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_066
+    name: Northern Mariana Islands Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_067
+    name: Northern Mariana Islands Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_068
+    name: Northern Mariana Islands Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_069
+    name: Northern Mariana Islands Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_070
+    name: Northern Mariana Islands Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_071
+    name: Northern Mariana Islands Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_072
+    name: Northern Mariana Islands Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_073
+    name: Northern Mariana Islands Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_074
+    name: Northern Mariana Islands Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_075
+    name: Northern Mariana Islands Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_076
+    name: Northern Mariana Islands Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_077
+    name: Northern Mariana Islands Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_078
+    name: Northern Mariana Islands Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_079
+    name: Northern Mariana Islands Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_080
+    name: Northern Mariana Islands Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_081
+    name: Northern Mariana Islands Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_082
+    name: Northern Mariana Islands Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_083
+    name: Northern Mariana Islands Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_084
+    name: Northern Mariana Islands Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_085
+    name: Northern Mariana Islands Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_086
+    name: Northern Mariana Islands Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_087
+    name: Northern Mariana Islands Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_088
+    name: Northern Mariana Islands Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_089
+    name: Northern Mariana Islands Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_090
+    name: Northern Mariana Islands Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_091
+    name: Northern Mariana Islands Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_092
+    name: Northern Mariana Islands Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_093
+    name: Northern Mariana Islands Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_094
+    name: Northern Mariana Islands Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_095
+    name: Northern Mariana Islands Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_096
+    name: Northern Mariana Islands Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_097
+    name: Northern Mariana Islands Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_098
+    name: Northern Mariana Islands Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_099
+    name: Northern Mariana Islands Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_100
+    name: Northern Mariana Islands Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_101
+    name: Northern Mariana Islands Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_102
+    name: Northern Mariana Islands Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_103
+    name: Northern Mariana Islands Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_104
+    name: Northern Mariana Islands Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_105
+    name: Northern Mariana Islands Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_106
+    name: Northern Mariana Islands Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_107
+    name: Northern Mariana Islands Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_108
+    name: Northern Mariana Islands Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_109
+    name: Northern Mariana Islands Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_110
+    name: Northern Mariana Islands Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_111
+    name: Northern Mariana Islands Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_112
+    name: Northern Mariana Islands Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_113
+    name: Northern Mariana Islands Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_114
+    name: Northern Mariana Islands Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_115
+    name: Northern Mariana Islands Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_116
+    name: Northern Mariana Islands Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_117
+    name: Northern Mariana Islands Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_118
+    name: Northern Mariana Islands Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_119
+    name: Northern Mariana Islands Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_120
+    name: Northern Mariana Islands Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_121
+    name: Northern Mariana Islands Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_122
+    name: Northern Mariana Islands Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_123
+    name: Northern Mariana Islands Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_124
+    name: Northern Mariana Islands Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_125
+    name: Northern Mariana Islands Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_126
+    name: Northern Mariana Islands Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_127
+    name: Northern Mariana Islands Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_128
+    name: Northern Mariana Islands Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_129
+    name: Northern Mariana Islands Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_130
+    name: Northern Mariana Islands Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_131
+    name: Northern Mariana Islands Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_132
+    name: Northern Mariana Islands Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_133
+    name: Northern Mariana Islands Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_134
+    name: Northern Mariana Islands Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_135
+    name: Northern Mariana Islands Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_136
+    name: Northern Mariana Islands Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_137
+    name: Northern Mariana Islands Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_138
+    name: Northern Mariana Islands Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_139
+    name: Northern Mariana Islands Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_140
+    name: Northern Mariana Islands Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_141
+    name: Northern Mariana Islands Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_142
+    name: Northern Mariana Islands Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_143
+    name: Northern Mariana Islands Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_144
+    name: Northern Mariana Islands Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_145
+    name: Northern Mariana Islands Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_146
+    name: Northern Mariana Islands Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_147
+    name: Northern Mariana Islands Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_148
+    name: Northern Mariana Islands Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_149
+    name: Northern Mariana Islands Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_150
+    name: Northern Mariana Islands Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_151
+    name: Northern Mariana Islands Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_152
+    name: Northern Mariana Islands Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_153
+    name: Northern Mariana Islands Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_154
+    name: Northern Mariana Islands Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_155
+    name: Northern Mariana Islands Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_156
+    name: Northern Mariana Islands Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_157
+    name: Northern Mariana Islands Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_158
+    name: Northern Mariana Islands Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_159
+    name: Northern Mariana Islands Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_160
+    name: Northern Mariana Islands Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_161
+    name: Northern Mariana Islands Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_162
+    name: Northern Mariana Islands Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_163
+    name: Northern Mariana Islands Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_164
+    name: Northern Mariana Islands Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_165
+    name: Northern Mariana Islands Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_166
+    name: Northern Mariana Islands Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_167
+    name: Northern Mariana Islands Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_168
+    name: Northern Mariana Islands Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_169
+    name: Northern Mariana Islands Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_170
+    name: Northern Mariana Islands Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_171
+    name: Northern Mariana Islands Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_172
+    name: Northern Mariana Islands Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_173
+    name: Northern Mariana Islands Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_174
+    name: Northern Mariana Islands Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_175
+    name: Northern Mariana Islands Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_176
+    name: Northern Mariana Islands Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_177
+    name: Northern Mariana Islands Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_178
+    name: Northern Mariana Islands Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_179
+    name: Northern Mariana Islands Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_180
+    name: Northern Mariana Islands Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_181
+    name: Northern Mariana Islands Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_182
+    name: Northern Mariana Islands Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_183
+    name: Northern Mariana Islands Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_184
+    name: Northern Mariana Islands Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_185
+    name: Northern Mariana Islands Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_186
+    name: Northern Mariana Islands Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_187
+    name: Northern Mariana Islands Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_188
+    name: Northern Mariana Islands Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_189
+    name: Northern Mariana Islands Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_190
+    name: Northern Mariana Islands Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_191
+    name: Northern Mariana Islands Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_192
+    name: Northern Mariana Islands Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_193
+    name: Northern Mariana Islands Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_194
+    name: Northern Mariana Islands Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_195
+    name: Northern Mariana Islands Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_196
+    name: Northern Mariana Islands Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_197
+    name: Northern Mariana Islands Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_198
+    name: Northern Mariana Islands Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_199
+    name: Northern Mariana Islands Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_200
+    name: Northern Mariana Islands Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_201
+    name: Northern Mariana Islands Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_202
+    name: Northern Mariana Islands Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_203
+    name: Northern Mariana Islands Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_204
+    name: Northern Mariana Islands Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_205
+    name: Northern Mariana Islands Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_206
+    name: Northern Mariana Islands Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_207
+    name: Northern Mariana Islands Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_208
+    name: Northern Mariana Islands Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_209
+    name: Northern Mariana Islands Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_210
+    name: Northern Mariana Islands Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_211
+    name: Northern Mariana Islands Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_212
+    name: Northern Mariana Islands Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_213
+    name: Northern Mariana Islands Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_214
+    name: Northern Mariana Islands Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_215
+    name: Northern Mariana Islands Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_216
+    name: Northern Mariana Islands Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_217
+    name: Northern Mariana Islands Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_218
+    name: Northern Mariana Islands Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_219
+    name: Northern Mariana Islands Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_220
+    name: Northern Mariana Islands Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_221
+    name: Northern Mariana Islands Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_222
+    name: Northern Mariana Islands Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_223
+    name: Northern Mariana Islands Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_224
+    name: Northern Mariana Islands Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_225
+    name: Northern Mariana Islands Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_226
+    name: Northern Mariana Islands Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_227
+    name: Northern Mariana Islands Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_228
+    name: Northern Mariana Islands Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_229
+    name: Northern Mariana Islands Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_230
+    name: Northern Mariana Islands Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_231
+    name: Northern Mariana Islands Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_232
+    name: Northern Mariana Islands Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_233
+    name: Northern Mariana Islands Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_234
+    name: Northern Mariana Islands Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_235
+    name: Northern Mariana Islands Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_236
+    name: Northern Mariana Islands Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_237
+    name: Northern Mariana Islands Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_238
+    name: Northern Mariana Islands Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_239
+    name: Northern Mariana Islands Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_240
+    name: Northern Mariana Islands Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_241
+    name: Northern Mariana Islands Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_242
+    name: Northern Mariana Islands Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_243
+    name: Northern Mariana Islands Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_244
+    name: Northern Mariana Islands Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_245
+    name: Northern Mariana Islands Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_246
+    name: Northern Mariana Islands Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_247
+    name: Northern Mariana Islands Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_248
+    name: Northern Mariana Islands Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_249
+    name: Northern Mariana Islands Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_250
+    name: Northern Mariana Islands Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_251
+    name: Northern Mariana Islands Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mp_252
+    name: Northern Mariana Islands Skill 252
+    status: ACTIVE_SCAFFOLD

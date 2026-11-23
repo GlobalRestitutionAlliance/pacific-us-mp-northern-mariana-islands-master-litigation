@@ -1,0 +1,11 @@
+source_id,title,url,source_type,access_method,verification_status,notes
+SRC-0001,UN Digital Library,https://digitallibrary.un.org/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pacific Wave 1 source registry; verify before legal reliance.
+SRC-0002,Library of Congress - Northern Mariana Islands,https://www.loc.gov/item/?q=northern+mariana+islands+colonial+trust+territory,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pacific Wave 1 source registry; verify before legal reliance.
+SRC-0003,HathiTrust Digital Library,https://babel.hathitrust.org/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pacific Wave 1 source registry; verify before legal reliance.
+SRC-0004,Chronicling America LOC,https://chroniclingamerica.loc.gov/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pacific Wave 1 source registry; verify before legal reliance.
+SRC-0005,World Bank Northern Mariana Islands,https://data.worldbank.org/country/northern-mariana-islands,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pacific Wave 1 source registry; verify before legal reliance.
+SRC-0006,US National Archives - Trust Territory,https://www.archives.gov/research/guide-fed-records/groups/126.html,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pacific Wave 1 source registry; verify before legal reliance.
+SRC-0007,UNESCO Memory of the World,https://www.unesco.org/en/memory-world,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pacific Wave 1 source registry; verify before legal reliance.
+SRC-0008,Justia,https://www.justia.com/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pacific Wave 1 source registry; verify before legal reliance.
+SRC-0009,CourtListener,https://www.courtlistener.com/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pacific Wave 1 source registry; verify before legal reliance.
+SRC-0010,DOI Office of Insular Affairs,https://www.doi.gov/oia/islands/cnmi,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pacific Wave 1 source registry; verify before legal reliance.

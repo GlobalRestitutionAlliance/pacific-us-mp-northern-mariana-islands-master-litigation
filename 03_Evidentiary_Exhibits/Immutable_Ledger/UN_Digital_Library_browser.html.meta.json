@@ -1,0 +1,18 @@
+{
+  "url": "https://digitallibrary.un.org/",
+  "final_url": "https://digitallibrary.un.org/",
+  "title": "UN Digital Library",
+  "fetched_at": "2026-11-23T09:30:55.414885Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 2002,
+  "sha256": "27f330e0a6db06aed47d564db1d80bb6d22aaca3d589d77d5a0a14674ec65ec3",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": false,
+  "quality_flag": "NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE",
+  "annotation_note": "Browser capture landed on bot-challenge/AWS WAF/CF interstitial; not substantive evidence. Pending recapture."
+}

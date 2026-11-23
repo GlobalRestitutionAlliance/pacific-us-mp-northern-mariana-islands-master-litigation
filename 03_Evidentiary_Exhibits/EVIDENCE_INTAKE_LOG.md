@@ -35,6 +35,10 @@
 | 2026-11-22 | Wikisource.html | https://en.wikisource.org/ | OpenCode/harvest | f1f02568e88c7f7327e2592f2cd8064cc67353af713a715cbfe36eaa2f0fe50a | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=131944 |
 | 2026-11-22 | US_Govt_Publishing_Office.html | https://www.govinfo.gov/ | OpenCode/harvest | 2afbc7eda2fb8bd786e4fa221fcfb9740604902b8a053e61d9d36a20f20993b7 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=65676 |
 
+| 2026-11-23 | US_National_Archives_-_Trust_Territory.html | https://www.archives.gov/research/guide-fed-records/groups/126.html | OpenCode/harvest | 1b42ee31f1781ae96455b9f6399b4bb8e95eaab0ce55f341a70f1badf847dc9d | PUBLIC_CAPTURE_UNAUTHENTICATED | direct-http http_status=200 bytes=63409 final_url=https://www.archives.gov/research/guide-fed-records/groups/126.html |
+
+| 2026-11-23 | DOI_Office_of_Insular_Affairs.html | https://www.doi.gov/oia/islands/cnmi | OpenCode/harvest | 2769c167eb98acddb619035926bec9c3e67b1a4df70ac39bf07f9d50e4f1b5ed | PUBLIC_CAPTURE_UNAUTHENTICATED | direct-http http_status=200 bytes=62044 final_url=https://www.doi.gov/oia/islands/cnmi |
+
 ## Intake Rules
 - Record source URL, access date, downloader, file hash, and storage path.
 - No authenticated claim without custodian/legal review.
